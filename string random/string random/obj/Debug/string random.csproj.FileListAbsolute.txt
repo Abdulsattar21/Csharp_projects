@@ -1,0 +1,6 @@
+c:\users\hd\documents\visual studio 2015\Projects\string random\string random\bin\Debug\string random.exe.config
+c:\users\hd\documents\visual studio 2015\Projects\string random\string random\bin\Debug\string random.exe
+c:\users\hd\documents\visual studio 2015\Projects\string random\string random\bin\Debug\string random.pdb
+c:\users\hd\documents\visual studio 2015\Projects\string random\string random\obj\Debug\string random.csprojResolveAssemblyReference.cache
+c:\users\hd\documents\visual studio 2015\Projects\string random\string random\obj\Debug\string random.exe
+c:\users\hd\documents\visual studio 2015\Projects\string random\string random\obj\Debug\string random.pdb

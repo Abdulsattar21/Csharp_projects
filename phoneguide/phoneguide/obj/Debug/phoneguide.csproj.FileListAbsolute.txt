@@ -1,0 +1,11 @@
+c:\users\hd\documents\visual studio 2015\Projects\phoneguide\phoneguide\bin\Debug\phoneguide.exe.config
+c:\users\hd\documents\visual studio 2015\Projects\phoneguide\phoneguide\bin\Debug\phoneguide.exe
+c:\users\hd\documents\visual studio 2015\Projects\phoneguide\phoneguide\bin\Debug\phoneguide.pdb
+c:\users\hd\documents\visual studio 2015\Projects\phoneguide\phoneguide\obj\Debug\phoneguide.csprojResolveAssemblyReference.cache
+c:\users\hd\documents\visual studio 2015\Projects\phoneguide\phoneguide\obj\Debug\phoneguide.Form1.resources
+c:\users\hd\documents\visual studio 2015\Projects\phoneguide\phoneguide\obj\Debug\phoneguide.Properties.Resources.resources
+c:\users\hd\documents\visual studio 2015\Projects\phoneguide\phoneguide\obj\Debug\phoneguide.csproj.GenerateResource.Cache
+c:\users\hd\documents\visual studio 2015\Projects\phoneguide\phoneguide\obj\Debug\phoneguide.exe
+c:\users\hd\documents\visual studio 2015\Projects\phoneguide\phoneguide\obj\Debug\phoneguide.pdb
+c:\users\hd\documents\visual studio 2015\Projects\phoneguide\phoneguide\obj\Debug\phoneguide.Form2.resources
+c:\users\hd\documents\visual studio 2015\Projects\phoneguide\phoneguide\obj\Debug\phoneguide.Form3.resources

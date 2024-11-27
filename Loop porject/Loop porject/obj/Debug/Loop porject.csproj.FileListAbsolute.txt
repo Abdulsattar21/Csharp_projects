@@ -1,0 +1,6 @@
+c:\users\hd\documents\visual studio 2015\Projects\Loop porject\Loop porject\bin\Debug\Loop porject.exe.config
+c:\users\hd\documents\visual studio 2015\Projects\Loop porject\Loop porject\obj\Debug\Loop porject.csprojResolveAssemblyReference.cache
+c:\users\hd\documents\visual studio 2015\Projects\Loop porject\Loop porject\bin\Debug\Loop porject.exe
+c:\users\hd\documents\visual studio 2015\Projects\Loop porject\Loop porject\bin\Debug\Loop porject.pdb
+c:\users\hd\documents\visual studio 2015\Projects\Loop porject\Loop porject\obj\Debug\Loop porject.exe
+c:\users\hd\documents\visual studio 2015\Projects\Loop porject\Loop porject\obj\Debug\Loop porject.pdb

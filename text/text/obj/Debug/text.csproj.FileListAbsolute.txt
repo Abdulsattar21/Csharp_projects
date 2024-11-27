@@ -1,0 +1,9 @@
+c:\users\hd\documents\visual studio 2015\Projects\text\text\bin\Debug\text.exe.config
+c:\users\hd\documents\visual studio 2015\Projects\text\text\bin\Debug\text.exe
+c:\users\hd\documents\visual studio 2015\Projects\text\text\bin\Debug\text.pdb
+c:\users\hd\documents\visual studio 2015\Projects\text\text\obj\Debug\text.csprojResolveAssemblyReference.cache
+c:\users\hd\documents\visual studio 2015\Projects\text\text\obj\Debug\text.Form1.resources
+c:\users\hd\documents\visual studio 2015\Projects\text\text\obj\Debug\text.Properties.Resources.resources
+c:\users\hd\documents\visual studio 2015\Projects\text\text\obj\Debug\text.csproj.GenerateResource.Cache
+c:\users\hd\documents\visual studio 2015\Projects\text\text\obj\Debug\text.exe
+c:\users\hd\documents\visual studio 2015\Projects\text\text\obj\Debug\text.pdb

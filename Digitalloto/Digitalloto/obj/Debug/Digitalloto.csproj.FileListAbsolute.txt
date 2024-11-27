@@ -1,0 +1,19 @@
+c:\users\hd\documents\visual studio 2015\Projects\Digitalloto\Digitalloto\bin\Debug\Digitalloto.exe.config
+c:\users\hd\documents\visual studio 2015\Projects\Digitalloto\Digitalloto\bin\Debug\Digitalloto.exe
+c:\users\hd\documents\visual studio 2015\Projects\Digitalloto\Digitalloto\bin\Debug\Digitalloto.pdb
+c:\users\hd\documents\visual studio 2015\Projects\Digitalloto\Digitalloto\obj\Debug\Digitalloto.csprojResolveAssemblyReference.cache
+c:\users\hd\documents\visual studio 2015\Projects\Digitalloto\Digitalloto\obj\Debug\Digitalloto.Form1.resources
+c:\users\hd\documents\visual studio 2015\Projects\Digitalloto\Digitalloto\obj\Debug\Digitalloto.Properties.Resources.resources
+c:\users\hd\documents\visual studio 2015\Projects\Digitalloto\Digitalloto\obj\Debug\Digitalloto.csproj.GenerateResource.Cache
+c:\users\hd\documents\visual studio 2015\Projects\Digitalloto\Digitalloto\obj\Debug\Digitalloto.exe
+c:\users\hd\documents\visual studio 2015\Projects\Digitalloto\Digitalloto\obj\Debug\Digitalloto.pdb
+D:\ProToPublish\C#_Projects\Digitalloto\Digitalloto\bin\Debug\Digitalloto.exe.config
+D:\ProToPublish\C#_Projects\Digitalloto\Digitalloto\bin\Debug\Digitalloto.exe
+D:\ProToPublish\C#_Projects\Digitalloto\Digitalloto\bin\Debug\Digitalloto.pdb
+D:\ProToPublish\C#_Projects\Digitalloto\Digitalloto\obj\Debug\Digitalloto.csproj.AssemblyReference.cache
+D:\ProToPublish\C#_Projects\Digitalloto\Digitalloto\obj\Debug\Digitalloto.Form1.resources
+D:\ProToPublish\C#_Projects\Digitalloto\Digitalloto\obj\Debug\Digitalloto.Properties.Resources.resources
+D:\ProToPublish\C#_Projects\Digitalloto\Digitalloto\obj\Debug\Digitalloto.csproj.GenerateResource.cache
+D:\ProToPublish\C#_Projects\Digitalloto\Digitalloto\obj\Debug\Digitalloto.csproj.CoreCompileInputs.cache
+D:\ProToPublish\C#_Projects\Digitalloto\Digitalloto\obj\Debug\Digitalloto.exe
+D:\ProToPublish\C#_Projects\Digitalloto\Digitalloto\obj\Debug\Digitalloto.pdb
